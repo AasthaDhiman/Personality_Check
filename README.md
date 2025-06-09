@@ -1,5 +1,5 @@
 # Personality_Check
-###🔍 Personality Prediction Web App (Introvert vs Extrovert)
+### 🔍 Personality Prediction Web App (Introvert vs Extrovert)
 Built with: Streamlit, Python, Scikit-learn
 
 📌 Project Description:
